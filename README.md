@@ -10,6 +10,8 @@
 ### ⚡ Certification
 - ADsP(Advanced Data Analytics Semi-Professional)
 - SCSBP(SAS Certified Specialist: Base Programming Using SAS 9.4)
+- SQLD
+- 빅데이터분석기사
 
 ### 📫 Conference
 - A Study on Credit Rating Prediction through Financial Ratio Analysis(2020, The Korean Data Information Science Society)
